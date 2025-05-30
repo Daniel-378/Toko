@@ -2,7 +2,7 @@ const gamesData = [
     {
         id: 'ml',
         name: 'Mobile Legends',
-        logo: 'images/ff-logo.png',
+        logo: 'images/ml-logo.png',
         category: 'Mobile',
         diamondOptions: [
             { quantity: 10, price: 12000 },
